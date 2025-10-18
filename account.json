@@ -4,5 +4,11 @@
     "password": "",
     "role": "",
     "title": ""
+  },
+  {
+    "username": "ewe",
+    "password": "ewe",
+    "role": "user",
+    "title": "ewe"
   }
 ]
