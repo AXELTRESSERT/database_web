@@ -1,4 +1,8 @@
-}
- "username": []
- "password": []
-{
+[
+  {
+    "username": "",
+    "password": "",
+    "role": "",
+    "title": ""
+  }
+]
